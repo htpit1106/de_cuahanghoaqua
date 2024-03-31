@@ -1,0 +1,10 @@
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\bin\Debug\de_cuahanghoaqua.exe.config
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\bin\Debug\de_cuahanghoaqua.exe
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\bin\Debug\de_cuahanghoaqua.pdb
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\obj\Debug\de_cuahanghoaqua.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\obj\Debug\de_cuahanghoaqua.Form1.resources
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\obj\Debug\de_cuahanghoaqua.Properties.Resources.resources
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\obj\Debug\de_cuahanghoaqua.csproj.GenerateResource.cache
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\obj\Debug\de_cuahanghoaqua.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\obj\Debug\de_cuahanghoaqua.exe
+C:\Users\phuon\source\repos\de_cuahanghoaqua\de_cuahanghoaqua\obj\Debug\de_cuahanghoaqua.pdb
